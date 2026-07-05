@@ -1,4 +1,4 @@
-# 🚨 On-Call Copilot
+ On-Call Copilot
 
 A full-stack Incident Management Platform that helps engineers investigate production issues by collecting deployment and error events, correlating them, and generating AI-assisted incident analysis.
 
@@ -6,7 +6,7 @@ This project simulates how modern DevOps and Site Reliability Engineering (SRE) 
 
 ---
 
-## 📌 Features
+Features
 
 - 📋 Incident Dashboard
 - 📅 Incident Timeline
